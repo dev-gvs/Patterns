@@ -1,9 +1,7 @@
-# GVS03_Google_Drive
+# GVS03_Patterns
 
 ## Разработка многоуровневых приложений
 
-### Задание №7, 3 вариант
+### Задание №8, 3 вариант
 
 ![Screenshot1](1.png)
-![Screenshot2](2.png)
-![Screenshot3](3.png)
